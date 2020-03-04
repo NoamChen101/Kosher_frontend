@@ -29,7 +29,15 @@
                         "styles": [
                             "src/styles.scss"
                         ],
-                        "scripts": [],
+                        "scripts": [
+                            "src/@fuse/animations/js/jquery-1.12.4.min.js",
+                            "src/@fuse/animations/js/jquery-migrate-1.4.1.min.js",
+                            "src/@fuse/animations/js/fontawesome-all.js",
+                            
+                            "src/@fuse/animations/js/jquery.carousel-1.1.min.js",
+                            "src/@fuse/animations/js/jquery.mousewheel.min.js",
+                            "src/@fuse/animations/js/totalscript.js"
+                        ],
                         "showCircularDependencies": false
                     },
                     "configurations": {
